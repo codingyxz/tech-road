@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/frame-mybatis-demo.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/frame-mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-quartz-demo/frame-quartz-demo.iml" filepath="$PROJECT_DIR$/frame-quartz-demo/frame-quartz-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-spring-demo/frame-spring-demo.iml" filepath="$PROJECT_DIR$/frame-spring-demo/frame-spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-advanced-mapping-005/mybatis-advanced-mapping-005.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-advanced-mapping-005/mybatis-advanced-mapping-005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-cache-006/mybatis-cache-006.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-cache-006/mybatis-cache-006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-dynamic-sql-004/mybatis-dynamic-sql-004.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-dynamic-sql-004/mybatis-dynamic-sql-004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-feature-003/mybatis-feature-003.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-feature-003/mybatis-feature-003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-generator-007/mybatis-generator-007.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-generator-007/mybatis-generator-007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-introduction-001/mybatis-introduction-001.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-introduction-001/mybatis-introduction-001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-pagehelper-008/mybatis-pagehelper-008.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-pagehelper-008/mybatis-pagehelper-008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-mybatis-demo/mybatis-web-002/mybatis-web-002.iml" filepath="$PROJECT_DIR$/frame-mybatis-demo/mybatis-web-002/mybatis-web-002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-quartz-demo/quartz-sboot-demo/quartz-sboot-demo.iml" filepath="$PROJECT_DIR$/frame-quartz-demo/quartz-sboot-demo/quartz-sboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-spring-demo/sboot-demo/sboot-demo.iml" filepath="$PROJECT_DIR$/frame-spring-demo/sboot-demo/sboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-asm-demo/tech-asm-demo.iml" filepath="$PROJECT_DIR$/tech-asm-demo/tech-asm-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-java-demo/tech-java-demo.iml" filepath="$PROJECT_DIR$/tech-java-demo/tech-java-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-jdbc-demo/tech-jdbc-demo.iml" filepath="$PROJECT_DIR$/tech-jdbc-demo/tech-jdbc-demo.iml" />
+    </modules>
+  </component>
+</project>

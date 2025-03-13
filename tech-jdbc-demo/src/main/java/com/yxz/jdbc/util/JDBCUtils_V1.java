@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class JDBCUtils_V1 {
 
-    public static final String URL = "jdbc:mysql://8.152.195.169:33066/jdbc?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai&allowMultiQueries=true&useSSL=false&rewriteBatchedStatements=true";
+    public static final String URL = "jdbc:mysql://8.152.195.169:3306/jdbc?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai&allowMultiQueries=true&useSSL=false&rewriteBatchedStatements=true";
     public static final String PASSWORD = "12345687";
     public static final String USER = "root";
     public static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";

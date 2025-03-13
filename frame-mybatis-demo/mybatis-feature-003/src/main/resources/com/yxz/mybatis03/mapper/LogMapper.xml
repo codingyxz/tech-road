@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--要想使用这种机制：namespace必须是dao接口的全限定名称。-->
+<mapper namespace="com.yxz.mybatis03.mapper.LogMapper">
+
+    <select id="selectAllByTable" resultType="Log">
+        <!--select * from t_log_#{date}-->
+        select * from t_log_${date}
+    </select>
+
+</mapper>
