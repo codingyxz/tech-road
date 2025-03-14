@@ -10,6 +10,7 @@
         <module name="mybatis-introduction-001" />
         <module name="mybatis-pagehelper-008" />
         <module name="tech-jdbc-demo" />
+        <module name="mybatis-plugin-009" />
         <module name="mybatis-dynamic-sql-004" />
         <module name="tech-asm-demo" />
         <module name="sboot-demo" />
@@ -38,6 +39,7 @@
       <module name="mybatis-generator-007" target="11" />
       <module name="mybatis-introduction-001" target="11" />
       <module name="mybatis-pagehelper-008" target="11" />
+      <module name="mybatis-plugin-009" target="11" />
       <module name="mybatis-web-002" target="11" />
       <module name="quartz-sboot-demo" target="11" />
       <module name="sboot-demo" target="11" />
